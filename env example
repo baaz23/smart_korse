@@ -1,0 +1,3 @@
+GEMINI_API_KEY=''
+DATABASE_URL='pgsql/neondb_owner'
+NODE_ENV='production'
